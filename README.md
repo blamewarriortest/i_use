@@ -7,7 +7,7 @@ I use in my work this:
 
 - [moment.js](http://momentjs.com/)
 - [cool-kitten](http://jalxob.com/cool-kitten/)
-- [SnapJS](https://github.com/jakiestfu/Snap.js/)
+
 
 
 ####ruby
