@@ -10,9 +10,5 @@ I use in my work this:
 - [SnapJS](https://github.com/jakiestfu/Snap.js/)
 
 
-####go
-
-- [goose](https://bitbucket.org/liamstask/goose)
-
 ####ruby
 - [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug)
